@@ -1,7 +1,11 @@
 body {
-    background: CCCCCC;
+    
+    background: #CCCCCC;
 }
-h1 {
+
+.principal {
+  background: #CCCCCC
+    
     text-align: center;
     border: 10px solid black;
     padding:20px ;
@@ -13,10 +17,13 @@ em strong {
     color: red;
 }
 #missao{
-    style="font-size: 20px;"
+     font-size: 20px;
 }
 #banner{
     width: 100%;
+}
+.beneficios{
+    background: #ffffff
 }
 .itens{
     font-style: italic;
