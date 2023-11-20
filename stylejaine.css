@@ -5,10 +5,10 @@ body {
 
 .principal {
   background: #CCCCCC
-    
+  padding: 30px;  
     text-align: center;
     border: 10px solid black;
-    padding:20px ;
+    padding: 20px;
 }
 p {
     text-align: center;
@@ -27,12 +27,19 @@ em strong {
 }
 .imagembeneficios{
     width: 50%;
+padding: 20px; 
 }
+
 h2{
     text-align: center;
 }
 .itens{
-    font-style:italic
- li{
-    border: 3px solid black;
+    font-style:italic;
+ }
+ ul{
+ 
+display: inline block;
+vertical-align: top;
+width: 20px;
+margin: 15%;
  }
